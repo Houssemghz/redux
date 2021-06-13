@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+i {
+  cursor: pointer;
+}
+.box {
+  /* background-color: aqua; */
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+table {
+  border: 1px solid black;
+  border-radius: 1px;
+  box-shadow: rgba(65, 63, 63, 0.562) 1px 1px 10px 1px;
+}
+::placeholder {
+  color: green;
+}
+/* .boxx {
+  border: solid black 1px;
+  border-radius: 10px;
+  box-shadow: black 1px 1px 15px 1px;
+  width: 400px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
